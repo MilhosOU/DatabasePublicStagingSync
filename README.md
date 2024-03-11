@@ -1,4 +1,4 @@
-# PostgreSQL Table Copy Script to Staging Schema
+# PostgreSQL Public Schema to Staging Schema
 
 This Python script facilitates copying the structure, data, indexes, and triggers of tables from a PostgreSQL database's public schema to a dedicated staging schema. It leverages the `psycopg2` library to interact with the database.
 
